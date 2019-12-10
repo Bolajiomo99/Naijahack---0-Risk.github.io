@@ -8,7 +8,7 @@
 
 --Smith Hidayyah Oluwatoyin @ omowunmi_toyin@yahoo.com   Graphics Designer 
 
-# Problem
+# Prolem
 Poor performance of students in mathematics have cause a lot of students to gain admission to university and unable to understand the logic of algorithm which make them to have phobia in programming...
 
 # Proposed Solution 
