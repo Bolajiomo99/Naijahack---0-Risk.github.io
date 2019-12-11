@@ -5,7 +5,9 @@
 
 # Team members 
 --Jimoh Bolaji Adigun bolajijimoh8@gmail.com     Front-End software developer
+
 --Smith Hidayyah Oluwatoyin @ omowunmi_toyin@yahoo.com   Graphics Designer 
+
 --Priyanka P7889122486@gmail.com Engineer,Github 
 
 # Problem
