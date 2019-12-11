@@ -8,6 +8,8 @@
 
 --Smith Hidayyah Oluwatoyin @ omowunmi_toyin@yahoo.com   Graphics Designer 
 
+--Priyanka P7889122486@gmail.com Engineer,Github 
+
 # Problem
 Poor performance of students in mathematics have cause a lot of students to gain admission to university and unable to understand the logic of algorithm which make them to have phobia in programming...
 
